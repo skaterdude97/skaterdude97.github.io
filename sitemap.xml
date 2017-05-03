@@ -18,6 +18,15 @@
   </url>
   
   <url>
+    <loc>https://skaterdude97.github.io/favs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://skaterdude97.github.io/favs/favs/</loc>
+  </url>
+  
+  <url>
     <loc>https://skaterdude97.github.io/pages/</loc>
     <lastmod>2017-05-03T10:30:52-04:00</lastmod>
     <priority>0</priority>
