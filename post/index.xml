@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Code Corner</title>
-    <link>https://skaterdude97.github.io/post/</link>
+    <link>https://skaterdude97.github.io/post/index.xml</link>
     <description>Recent content in Posts on Code Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -18,7 +18,7 @@
       <guid>https://skaterdude97.github.io/post/Welcome/</guid>
       <description>
 
-&lt;h1 id=&#34;welcome-to-code-corner:3a510a72664df37c3ae2a2335d277d64&#34;&gt;Welcome to Code Corner!&lt;/h1&gt;
+&lt;h1 id=&#34;welcome-to-code-corner&#34;&gt;Welcome to Code Corner!&lt;/h1&gt;
 
 &lt;p&gt;The purpose of this website is to serve as a spot to track my experiences and
 knowledge I gain during my exploration of computer science. It will also host

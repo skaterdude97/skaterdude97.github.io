@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://skaterdude97.github.io/</loc>
-    <lastmod>2017-05-03T12:01:01-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://skaterdude97.github.io/post/Welcome/</loc>
     <lastmod>2017-05-03T12:01:01-04:00</lastmod>
   </url>
@@ -15,6 +9,24 @@
   <url>
     <loc>https://skaterdude97.github.io/pages/Resume/</loc>
     <lastmod>2017-05-03T10:30:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skaterdude97.github.io/</loc>
+    <lastmod>2017-05-03T12:01:01-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://skaterdude97.github.io/pages/</loc>
+    <lastmod>2017-05-03T10:30:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://skaterdude97.github.io/post/</loc>
+    <lastmod>2017-05-03T12:01:01-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

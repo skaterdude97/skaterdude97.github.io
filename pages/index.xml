@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Code Corner</title>
-    <link>https://skaterdude97.github.io/pages/</link>
+    <link>https://skaterdude97.github.io/pages/index.xml</link>
     <description>Recent content in Pages on Code Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -18,7 +18,7 @@
       <guid>https://skaterdude97.github.io/pages/Resume/</guid>
       <description>
 
-&lt;h2 id=&#34;skills-and-abilities:5a08c00c849193e100870ea8cb3dd7f1&#34;&gt;Skills and Abilities&lt;/h2&gt;
+&lt;h2 id=&#34;skills-and-abilities&#34;&gt;Skills and Abilities&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Organization skills&lt;/li&gt;
@@ -28,7 +28,7 @@ during school projects,worked teams of 3 to 4&lt;/li&gt;
 completed on time, and during volunteer work&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;computer-skils:5a08c00c849193e100870ea8cb3dd7f1&#34;&gt;Computer Skils&lt;/h2&gt;
+&lt;h2 id=&#34;computer-skils&#34;&gt;Computer Skils&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Multiple Operating Systems - Linux and Windows experience in both school
@@ -56,7 +56,7 @@ work and personal life&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;volunteer-experience-sub-sup-2013-2014-sup-sub:5a08c00c849193e100870ea8cb3dd7f1&#34;&gt;Volunteer Experience                                                &lt;sub&gt;&lt;sup&gt;&lt;em&gt;2013-2014&lt;/em&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;volunteer-experience-sub-sup-2013-2014-sup-sub&#34;&gt;Volunteer Experience                                                &lt;sub&gt;&lt;sup&gt;&lt;em&gt;2013-2014&lt;/em&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Canadian Cancer Society Halton Unit
@@ -91,7 +91,7 @@ event&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;education:5a08c00c849193e100870ea8cb3dd7f1&#34;&gt;Education&lt;/h2&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Bachelor of Science - Computer Science&lt;/strong&gt;,                    &lt;em&gt;Graduating 2018&lt;/em&gt;
@@ -102,7 +102,7 @@ event&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;project-experience:5a08c00c849193e100870ea8cb3dd7f1&#34;&gt;Project Experience&lt;/h2&gt;
+&lt;h2 id=&#34;project-experience&#34;&gt;Project Experience&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Vigenère Cipher&lt;/strong&gt;,                                                                  &lt;em&gt;April 12, 2016&lt;/em&gt;&lt;/p&gt;
@@ -136,7 +136,7 @@ a bungee cord through the air using C++.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;hobbies-sub-sup-2013-present-sup-sub:5a08c00c849193e100870ea8cb3dd7f1&#34;&gt;Hobbies                                                                     &lt;sub&gt;&lt;sup&gt;&lt;em&gt;2013-Present&lt;/em&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;hobbies-sub-sup-2013-present-sup-sub&#34;&gt;Hobbies                                                                     &lt;sub&gt;&lt;sup&gt;&lt;em&gt;2013-Present&lt;/em&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Build computers for others, source and consult on components required,
