@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://skaterdude97.github.io/post/Welcome/</loc>
+    <loc>https://skaterdude97.github.io/post/welcome/</loc>
     <lastmod>2017-05-03T12:01:01-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://skaterdude97.github.io/pages/Resume/</loc>
+    <loc>https://skaterdude97.github.io/pages/resume/</loc>
     <lastmod>2017-05-03T10:30:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://skaterdude97.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -35,6 +41,11 @@
   <url>
     <loc>https://skaterdude97.github.io/post/</loc>
     <lastmod>2017-05-03T12:01:01-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://skaterdude97.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

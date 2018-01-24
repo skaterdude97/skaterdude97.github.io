@@ -2,149 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Code Corner</title>
-    <link>https://skaterdude97.github.io/pages/index.xml</link>
+    <link>https://skaterdude97.github.io/pages/</link>
     <description>Recent content in Pages on Code Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2017 Andrei Stoica</copyright>
     <lastBuildDate>Wed, 03 May 2017 10:30:52 -0400</lastBuildDate>
-    <atom:link href="https://skaterdude97.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://skaterdude97.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Resume</title>
-      <link>https://skaterdude97.github.io/pages/Resume/</link>
+      <link>https://skaterdude97.github.io/pages/resume/</link>
       <pubDate>Wed, 03 May 2017 10:30:52 -0400</pubDate>
       
-      <guid>https://skaterdude97.github.io/pages/Resume/</guid>
-      <description>
-
-&lt;h2 id=&#34;skills-and-abilities&#34;&gt;Skills and Abilities&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Organization skills&lt;/li&gt;
-&lt;li&gt;Teamwork skills developed/demonstrated during during volunteer work and
-during school projects,worked teams of 3 to 4&lt;/li&gt;
-&lt;li&gt;Strong independent worker throughout education getting assignments
-completed on time, and during volunteer work&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;computer-skils&#34;&gt;Computer Skils&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Multiple Operating Systems - Linux and Windows experience in both school
-work and personal life&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Programing languages used in school projects&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Java and JavaFX Library&lt;/li&gt;
-&lt;li&gt;Kotlin and Anko Library&lt;/li&gt;
-&lt;li&gt;Assembly&lt;/li&gt;
-&lt;li&gt;C/C++&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Software Design and Development tools&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Unified Modeling Language&lt;/li&gt;
-&lt;li&gt;Git&lt;/li&gt;
-&lt;li&gt;Visual Studio&lt;/li&gt;
-&lt;li&gt;Eclipse&lt;/li&gt;
-&lt;li&gt;Android Studio&lt;/li&gt;
-&lt;li&gt;MS Visio&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;volunteer-experience-sub-sup-2013-2014-sup-sub&#34;&gt;Volunteer Experience                                                &lt;sub&gt;&lt;sup&gt;&lt;em&gt;2013-2014&lt;/em&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Canadian Cancer Society Halton Unit
-
-&lt;ul&gt;
-&lt;li&gt;Worked in a team fundraising, selling daffodils to public to raise money
-for cancer&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Oakville Ensemble
-
-&lt;ul&gt;
-&lt;li&gt;Organized musical equipment for live performance&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Drew Hildenbrand Teen Benefit Fund
-
-&lt;ul&gt;
-&lt;li&gt;Registered participants, assigned identifying numbers to each runner to be
-tracked by organizers&lt;/li&gt;
-&lt;li&gt;Supplied multiple refreshments booths&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Food for Life
-
-&lt;ul&gt;
-&lt;li&gt;Independently picked up food from local business to be donated to homeless
-and impoverished people&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Oakville Family Ribfeast
-
-&lt;ul&gt;
-&lt;li&gt;Organized Recyclables, compost and waste to reduce ecological impact of
-event&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Bachelor of Science - Computer Science&lt;/strong&gt;,                    &lt;em&gt;Graduating 2018&lt;/em&gt;
-&lt;em&gt;University of Ontario Institute of Technology (UOIT), Oshawa, ON&lt;/em&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2.88 GPA&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;project-experience&#34;&gt;Project Experience&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Vigenère Cipher&lt;/strong&gt;,                                                                  &lt;em&gt;April 12, 2016&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Created a program that encrypts a user provided string using a user
-provided key, and can decrypt a ciphertext using a user provided key
-using assembly language&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Java File Server&lt;/strong&gt;,                                                                  &lt;em&gt;April 8, 2016&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Programed a server and a client that used to upload files to the server
-and retrieve them using Java.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;AVL Tree&lt;/strong&gt;,                                                                             &lt;em&gt;December 4, 2015&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Created a program that processes a stream of integers and stores them in an
-AVL tree, then print a graph of the tree and traverse it to find a specific
-number using Java&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Falling Object Simulation&lt;/strong&gt;,                                         &lt;em&gt;November 26, 2014&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Programed a simulation of the motion of an object that is a connected to
-a bungee cord through the air using C++.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;hobbies-sub-sup-2013-present-sup-sub&#34;&gt;Hobbies                                                                     &lt;sub&gt;&lt;sup&gt;&lt;em&gt;2013-Present&lt;/em&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Build computers for others, source and consult on components required,
-install and teach then to install themselves
-troubleshoot software issues; fix problems and after suggestion on avoiding future problems&lt;/li&gt;
-&lt;li&gt;Set up printers; wired and wireless configuration&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://skaterdude97.github.io/pages/resume/</guid>
+      <description>Skills and Abilities  Organization skills Teamwork skills developed/demonstrated during during volunteer work and during school projects,worked teams of 3 to 4 Strong independent worker throughout education getting assignments completed on time, and during volunteer work  Computer Skils  Multiple Operating Systems - Linux and Windows experience in both school work and personal life Programing languages used in school projects
+ Java and JavaFX Library Kotlin and Anko Library Assembly C/C++ Python  Software Design and Development tools</description>
     </item>
     
   </channel>
