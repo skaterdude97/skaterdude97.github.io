@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Favs on Code Corner</title>
+    <title>Favs on Andrei Stoica - Code Corner</title>
     <link>https://skaterdude97.github.io/favs/</link>
-    <description>Recent content in Favs on Code Corner</description>
+    <description>Recent content in Favs on Andrei Stoica - Code Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright 2017 Andrei Stoica</copyright>
+    <copyright>© Copyright 2019 Andrei Stoica</copyright>
     
 	<atom:link href="https://skaterdude97.github.io/favs/index.xml" rel="self" type="application/rss+xml" />
     

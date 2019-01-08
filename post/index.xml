@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Code Corner</title>
+    <title>Posts on Andrei Stoica - Code Corner</title>
     <link>https://skaterdude97.github.io/post/</link>
-    <description>Recent content in Posts on Code Corner</description>
+    <description>Recent content in Posts on Andrei Stoica - Code Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright 2017 Andrei Stoica</copyright>
-    <lastBuildDate>Wed, 03 May 2017 12:01:01 -0400</lastBuildDate>
+    <copyright>© Copyright 2019 Andrei Stoica</copyright>
+    <lastBuildDate>Mon, 07 Jan 2019 15:32:55 -0500</lastBuildDate>
     
 	<atom:link href="https://skaterdude97.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,11 @@
     <item>
       <title>Welcome</title>
       <link>https://skaterdude97.github.io/post/welcome/</link>
-      <pubDate>Wed, 03 May 2017 12:01:01 -0400</pubDate>
+      <pubDate>Mon, 07 Jan 2019 15:32:55 -0500</pubDate>
       
       <guid>https://skaterdude97.github.io/post/welcome/</guid>
-      <description>Welcome to Code Corner! The purpose of this website is to serve as a spot to track my experiences and knowledge I gain during my exploration of computer science. It will also host my resume and links to my social media.</description>
+      <description>Welcome to Code Corner! Welcome to my website/blog. Going forward this will serve as a outlet for me to document and share my experiences as I explore the intricate world of computer science. I will be updating the blog portion of this site as I discover new interesting technologies.
+I am currently pursuing a Masters in Computer Science, supervised by Dr Ken Pu. My work will focus on automatic topic discovery and understanding of text data.</description>
     </item>
     
   </channel>
