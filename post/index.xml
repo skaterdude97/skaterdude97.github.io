@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2019 Andrei Stoica</copyright>
+    <lastBuildDate>Sat, 08 Aug 2020 15:32:55 -0500</lastBuildDate>
     
 	<atom:link href="https://skaterdude97.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +15,7 @@
     <item>
       <title>Welcome</title>
       <link>https://skaterdude97.github.io/post/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2020 15:32:55 -0500</pubDate>
       
       <guid>https://skaterdude97.github.io/post/welcome/</guid>
       <description>Welcome to Code Corner! Welcome to my website/blog. Going forward this will serve as a outlet for me to document and share my experiences as I explore the intricate world of computer science. I will be updating the blog portion of this site as I discover new interesting technologies.
