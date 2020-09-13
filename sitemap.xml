@@ -13,6 +13,10 @@
   </url>
   
   <url>
+    <loc>https://skaterdude97.github.io/csci2000/tutorial01/</loc>
+  </url>
+  
+  <url>
     <loc>https://skaterdude97.github.io/pages/csci2000/</loc>
   </url>
   
@@ -24,6 +28,11 @@
   
   <url>
     <loc>https://skaterdude97.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://skaterdude97.github.io/csci2000/</loc>
     <priority>0</priority>
   </url>
   
