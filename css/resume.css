@@ -1,4 +1,8 @@
-..shortlist {{
+.shortlist {
 	margin: 2%;
 	color: red;
+}
+
+img {
+	width: 40%;
 }
