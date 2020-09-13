@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2019 Andrei Stoica</copyright>
-    <lastBuildDate>Wed, 03 May 2017 10:30:52 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://skaterdude97.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reasources for CSCI2000</title>
+      <link>https://skaterdude97.github.io/pages/csci2000/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://skaterdude97.github.io/pages/csci2000/</guid>
+      <description> List of reasources for CSCI2000 Tutorial notes:  (Tutorial 1)[/csci2000/tutorial1]  </description>
+    </item>
     
     <item>
       <title>Resume</title>
@@ -23,15 +32,6 @@ Education  Bachelor of Science - Computer Science, 2018 Ontario Tech University,
  Master of Science - Computer Science, Expected Completion 2020 Ontario Tech University, Oshawa, ON
   Work Experience  Teaching Assistant University of Ontario Institute of Technology (UOIT), Oshawa, ON Sept. 2017 - May 2020 
  Lead classes of 20-25 junior and senior level undergraduate students on in-class activities Corrected student work and provided feedback for improvement Courses: Mobile Devices - Programing Workshop - System Development and Integration - Web Development - Interactive Media - Compilers    Graduate Research Assistant University of Ontario Institute of Technology (UOIT), Oshawa, ON Aug.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://skaterdude97.github.io/pages/csci2000/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://skaterdude97.github.io/pages/csci2000/</guid>
-      <description> List of reasources for CSCI2000 Tutorial notes:  (Tutorial 1)[/csci2000/tutorial1]  </description>
     </item>
     
   </channel>
