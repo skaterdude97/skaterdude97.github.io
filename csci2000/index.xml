@@ -13,15 +13,15 @@
     
     
     <item>
-      <title>Tutorial 01</title>
+      <title>Tutorial 01 - Getting start with Jupyter Cloud and Linux</title>
       <link>https://skaterdude97.github.io/csci2000/tutorial01/</link>
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://skaterdude97.github.io/csci2000/tutorial01/</guid>
-      <description>Getting start with Jupyter Cloud and Linux Jupyter Cloud When you first log in you will be asked to log in with your Google account. Please log in with your @ontariotechu.net account.
+      <description>1. Getting to know Jupyter Cloud When you first log in you will be asked to log in with your Google account. Please log in with your @ontariotechu.net account.
 Then click the course code (csci2000) to go to your dashboard.
 Finaly click on &amp;lsquo;Start My Server&amp;rsquo; and confirm by clicking &amp;lsquo;Launch Server&amp;rsquo;
--&amp;gt; This may take a few moments. Especially if a lot of students are trying to access Jupyter Cloud at the same time.</description>
+VVVVVVVV  This may take a few moments. Especially if a lot of students are trying to access Jupyter Cloud at the same time.</description>
     </item>
     
   </channel>

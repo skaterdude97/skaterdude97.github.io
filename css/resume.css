@@ -2,7 +2,21 @@
 	margin: 2%;
 }
 
-img {
-	width: 40%;
-	margin: 0 auto;
+.center {
+	display: block;
+	margin: auto;
+	text-align: center;
 }
+
+table {
+	width: 60%;
+	margin-left: auto;
+	margin-right: 20%;
+}
+
+img {
+	width: 45%;
+	display: block;
+	margin: auto;
+}
+
