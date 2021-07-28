@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright 2019 Andrei Stoica</copyright>
-    <lastBuildDate>Sun, 13 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://skaterdude97.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>CSCI2000</title>
-      <link>https://skaterdude97.github.io/pages/csci2000/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://skaterdude97.github.io/pages/csci2000/</guid>
-      <description> List of reasources for CSCI2000 Tutorial notes:  Tutorial 1 Tutorial 2 - coming next week  </description>
-    </item>
     
     <item>
       <title>Tutorial 01 - Getting start with Jupyter Cloud and Linux</title>
