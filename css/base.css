@@ -1,0 +1,159 @@
+body {
+	font-family: Ubuntu;
+	background-color: #2e2e2e;
+	color: #817a71;
+}
+.navbar {
+	background-color: #2e2e2e;
+	border: 0;
+	color: #89837a;
+}
+.navbar-header {
+	width: 100%;
+	padding: 2rem;
+}
+
+.event {
+	width: auto;
+	padding-bottom: 1rem;
+}
+
+.event:last-of-type {
+	padding-bottom: unset;
+}
+
+.title {
+	font-weight: bold;
+	font-size: larger;
+	float: left;
+}
+
+.date {
+	font-weight: lighter;
+	float: right;
+}
+
+.location {
+	display: inline;
+}
+
+.desc {
+	margin-top: 1rem;
+	margin-left: 3rem;
+}
+
+.navbar-brand {
+	height: unset;
+	line-height: unset;
+	max-width: 75%;
+}
+.navbar-default .navbar-collapse {
+	padding: 0;
+	border-color: #3d3e3e;
+}
+
+.nav-tabs.nav-justified > li > a {
+	border-radius: 8px 8px 0 0;
+	border-bottom-color: #3d3e3e;
+	color: #908b82;
+}
+
+.nav-tabs.nav-justified > li > a:hover {
+	border-color: #3d3e3e;
+	background-color: transparent;
+}
+
+.nav-tabs.nav-justified > li.active > a {
+	border-color: #3d3e3e;
+	background-color: #252525;
+	color: #908b82;
+}
+
+
+#sidebar ul {
+	padding-left: 2rem;
+	list-style-type: none;
+}
+
+#sidebar ul#links {
+	padding: 0;
+}
+li > a > img {
+	filter: invert(50%);
+	height: 3rem;
+	aspect-ratio: auto;
+}
+
+
+footer {
+	color: #666;
+	margin: 1rem;
+	text-align: center;
+}
+
+@media (min-width: 1200px) {
+	.navbar {
+		min-height: 80px;
+	}
+	.navbar-nav>li>a {
+		font-size: 2rem;
+		padding: 3rem 1.5rem;
+	}
+	.navbar-default .navbar-brand {
+		font-size: 6rem;
+	}
+	#content {
+		margin-top: 1rem;
+		padding: 1rem;
+	}
+
+	#sidebar {
+		border-left: 1px solid #908b82;
+		padding-left: 2rem;
+	}
+}
+
+@media (max-width: 1200px) {
+	.navbar-default {
+		border-bottom: 1px solid #3d3e3e;
+	}
+
+	.navbar-default .navbar-brand {
+		font-size: 4rem;
+	}
+
+	.navbar-header {
+		width: 100%;
+	}
+
+	.navbar-toggle {
+		margin: 1rem;
+		margin-top: 3rem;
+		vertical-align: middle;
+	}
+	.nav-tabs.nav-justified > li > a {
+		border-radius: 0;
+		color: #908b82;
+		margin-bottom: 0;
+	}
+
+	.nav-tabs.nav-justified > li > a:hover {
+		border-color: #3d3e3e;
+		background-color: transparent;
+	}
+
+	.nav-tabs.nav-justified > li.active > a {
+		border-color: #3d3e3e;
+		background-color: #252525;
+		color: #908b82;
+	}
+
+	#sidebar {
+		border-top: 1px solid #908b82;
+		margin-top: 3rem;
+	}
+
+	.fill {
+		width: 100%;
+	}
+}
