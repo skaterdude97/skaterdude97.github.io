@@ -41,6 +41,10 @@ body {
 	margin-top: 1rem;
 	margin-left: 3rem;
 }
+.desc > div {
+	display: list-item;
+	padding-bottom: 0.5rem;
+}
 
 .navbar-brand {
 	height: unset;
@@ -69,6 +73,14 @@ body {
 	color: #908b82;
 }
 
+.nav-tabs.nav-justified > li.active > a:hover {
+	border-color: #494949;
+	border-bottom-color: #3d3e3e;
+}
+
+.navbar-toggle {
+	border-color: #3d3e3e !important;
+}
 
 #sidebar ul {
 	padding-left: 2rem;
@@ -84,6 +96,15 @@ li > a > img {
 	aspect-ratio: auto;
 }
 
+code {
+	color: #7a7771;
+	background-color: #292a29; 
+}
+
+pre {
+	background-color: #2d2d2d;
+	border-color: #3d3e3e;
+}
 
 footer {
 	color: #666;
@@ -135,6 +156,10 @@ footer {
 		border-radius: 0;
 		color: #908b82;
 		margin-bottom: 0;
+	}
+
+	.nav li {
+		height: 100%;
 	}
 
 	.nav-tabs.nav-justified > li > a:hover {
